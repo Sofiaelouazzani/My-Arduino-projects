@@ -32,3 +32,4 @@ This project utilizes a motion sensor to detect movement and trigger a response,
 3. **Buzzer (Optional)**:
    - Positive leg to a digital output pin (e.g., Pin 8)
    - Negative leg to GND
+
